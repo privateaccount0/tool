@@ -24,7 +24,7 @@ public class dbaccess {
 		} catch (Exception e) {
 			e.printStackTrace();
 		} finally {
-			System.out.println("処理が完了しました");
+			System.out.println("処理が完了");
 		}
 	}
 }
